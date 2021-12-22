@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/stream-page/static/css/main.afd7172b.chunk.css",
+    "main.js": "/stream-page/static/js/main.1036d24f.chunk.js",
+    "main.js.map": "/stream-page/static/js/main.1036d24f.chunk.js.map",
+    "runtime-main.js": "/stream-page/static/js/runtime-main.2245eff5.js",
+    "runtime-main.js.map": "/stream-page/static/js/runtime-main.2245eff5.js.map",
+    "static/js/2.b0309605.chunk.js": "/stream-page/static/js/2.b0309605.chunk.js",
+    "static/js/2.b0309605.chunk.js.map": "/stream-page/static/js/2.b0309605.chunk.js.map",
+    "static/js/3.dd6e8338.chunk.js": "/stream-page/static/js/3.dd6e8338.chunk.js",
+    "static/js/3.dd6e8338.chunk.js.map": "/stream-page/static/js/3.dd6e8338.chunk.js.map",
+    "index.html": "/stream-page/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/stream-page/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b0309605.chunk.js.LICENSE.txt": "/stream-page/static/js/2.b0309605.chunk.js.LICENSE.txt",
+    "static/media/company1.497378c4.png": "/stream-page/static/media/company1.497378c4.png",
+    "static/media/company2.95dac2f6.png": "/stream-page/static/media/company2.95dac2f6.png",
+    "static/media/company3.4aaa6b3f.png": "/stream-page/static/media/company3.4aaa6b3f.png",
+    "static/media/company4.b277f8c8.png": "/stream-page/static/media/company4.b277f8c8.png",
+    "static/media/company5.b382a421.png": "/stream-page/static/media/company5.b382a421.png",
+    "static/media/company6.dc9c4146.png": "/stream-page/static/media/company6.dc9c4146.png",
+    "static/media/video1.10ef1b78.mp4": "/stream-page/static/media/video1.10ef1b78.mp4",
+    "static/media/video2.342688ae.mp4": "/stream-page/static/media/video2.342688ae.mp4",
+    "static/media/video3.b03526f5.mp4": "/stream-page/static/media/video3.b03526f5.mp4",
+    "static/media/video4.4b1c6a6f.mp4": "/stream-page/static/media/video4.4b1c6a6f.mp4",
+    "static/media/video5.f7a98ee0.mp4": "/stream-page/static/media/video5.f7a98ee0.mp4",
+    "static/media/video6.ac4b9fbc.mp4": "/stream-page/static/media/video6.ac4b9fbc.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2245eff5.js",
+    "static/js/2.b0309605.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.1036d24f.chunk.js"
+  ]
+}
